@@ -1,0 +1,21 @@
+# My First HTML Website 🌐
+
+A simple beginner-friendly HTML project that demonstrates how to create multiple web pages and link one page to another.
+
+## 📌 About the Project
+
+This project contains two HTML pages:
+
+- `my.check.html` — First page
+- `second.html` — Second page
+
+The first page contains a button/link. When the user clicks **Click**, it opens the second HTML page.
+
+## 📁 Project Structure
+
+```text
+MyWebsite/
+│
+├── my.check.html
+├── second.html
+└── README.md
